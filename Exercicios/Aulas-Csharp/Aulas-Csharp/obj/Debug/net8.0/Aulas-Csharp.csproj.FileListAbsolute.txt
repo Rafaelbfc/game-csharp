@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\bin\Debug\net8.0\Aulas-Csharp.exe
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\bin\Debug\net8.0\Aulas-Csharp.deps.json
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\bin\Debug\net8.0\Aulas-Csharp.runtimeconfig.json
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\bin\Debug\net8.0\Aulas-Csharp.dll
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\bin\Debug\net8.0\Aulas-Csharp.pdb
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\Aulas-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\Aulas-Csharp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\Aulas-Csharp.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\Aulas-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\Aulas-Csharp.sourcelink.json
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\Aulas-Csharp.dll
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\refint\Aulas-Csharp.dll
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\Aulas-Csharp.pdb
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\Aulas-Csharp.genruntimeconfig.cache
+C:\Users\User\source\repos\Exercicios\Aulas-Csharp\Aulas-Csharp\obj\Debug\net8.0\ref\Aulas-Csharp.dll

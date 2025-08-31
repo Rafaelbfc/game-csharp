@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Exercicios\\Estacionamento-POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6F784-1DDB-4033-B0CE-4E0F3E646130}|Estacionamento-POO\\Estacionamento-POO.csproj|c:\\users\\user\\source\\repos\\exercicios\\estacionamento-poo\\estacionamento-poo\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6F784-1DDB-4033-B0CE-4E0F3E646130}|Estacionamento-POO\\Estacionamento-POO.csproj|solutionrelative:estacionamento-poo\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6F784-1DDB-4033-B0CE-4E0F3E646130}|Estacionamento-POO\\Estacionamento-POO.csproj|c:\\users\\user\\source\\repos\\exercicios\\estacionamento-poo\\estacionamento-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6F784-1DDB-4033-B0CE-4E0F3E646130}|Estacionamento-POO\\Estacionamento-POO.csproj|solutionrelative:estacionamento-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estacionamento.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exercicios\\Estacionamento-POO\\Estacionamento-POO\\Estacionamento.cs",
+              "RelativeDocumentMoniker": "Estacionamento-POO\\Estacionamento.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exercicios\\Estacionamento-POO\\Estacionamento-POO\\Estacionamento.cs",
+              "RelativeToolTip": "Estacionamento-POO\\Estacionamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:09:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exercicios\\Estacionamento-POO\\Estacionamento-POO\\Program.cs",
+              "RelativeDocumentMoniker": "Estacionamento-POO\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exercicios\\Estacionamento-POO\\Estacionamento-POO\\Program.cs",
+              "RelativeToolTip": "Estacionamento-POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:09:17.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

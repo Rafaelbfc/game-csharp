@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\bin\Debug\net8.0\ProjetoExercicios.exe
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\bin\Debug\net8.0\ProjetoExercicios.deps.json
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\bin\Debug\net8.0\ProjetoExercicios.runtimeconfig.json
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\bin\Debug\net8.0\ProjetoExercicios.dll
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\bin\Debug\net8.0\ProjetoExercicios.pdb
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\ProjetoExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\ProjetoExercicios.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\ProjetoExercicios.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\ProjetoExercicios.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\ProjetoExercicios.sourcelink.json
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\ProjetoExercicios.dll
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\refint\ProjetoExercicios.dll
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\ProjetoExercicios.pdb
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\ProjetoExercicios.genruntimeconfig.cache
+C:\Users\User\source\repos\Exercicios\ProjetoExercicios\ProjetoExercicios\obj\Debug\net8.0\ref\ProjetoExercicios.dll

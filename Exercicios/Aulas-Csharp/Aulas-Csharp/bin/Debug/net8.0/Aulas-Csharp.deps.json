@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aulas-Csharp/1.0.0": {
+        "runtime": {
+          "Aulas-Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aulas-Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

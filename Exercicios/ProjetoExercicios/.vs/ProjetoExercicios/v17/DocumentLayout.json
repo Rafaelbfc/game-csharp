@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Exercicios\\ProjetoExercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20A8BE44-003F-468D-8DD3-D760BBDD1BFF}|ProjetoExercicios\\ProjetoExercicios.csproj|c:\\users\\user\\source\\repos\\exercicios\\projetoexercicios\\projetoexercicios\\dolar-real-converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A8BE44-003F-468D-8DD3-D760BBDD1BFF}|ProjetoExercicios\\ProjetoExercicios.csproj|solutionrelative:projetoexercicios\\dolar-real-converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A8BE44-003F-468D-8DD3-D760BBDD1BFF}|ProjetoExercicios\\ProjetoExercicios.csproj|c:\\users\\user\\source\\repos\\exercicios\\projetoexercicios\\projetoexercicios\\estoque-medio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A8BE44-003F-468D-8DD3-D760BBDD1BFF}|ProjetoExercicios\\ProjetoExercicios.csproj|solutionrelative:projetoexercicios\\estoque-medio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dolar-Real-Converter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exercicios\\ProjetoExercicios\\ProjetoExercicios\\Dolar-Real-Converter.cs",
+              "RelativeDocumentMoniker": "ProjetoExercicios\\Dolar-Real-Converter.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exercicios\\ProjetoExercicios\\ProjetoExercicios\\Dolar-Real-Converter.cs",
+              "RelativeToolTip": "ProjetoExercicios\\Dolar-Real-Converter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:39:28.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estoque-Medio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exercicios\\ProjetoExercicios\\ProjetoExercicios\\Estoque-Medio.cs",
+              "RelativeDocumentMoniker": "ProjetoExercicios\\Estoque-Medio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exercicios\\ProjetoExercicios\\ProjetoExercicios\\Estoque-Medio.cs",
+              "RelativeToolTip": "ProjetoExercicios\\Estoque-Medio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:48:16.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

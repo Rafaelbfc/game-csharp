@@ -12,3 +12,4 @@ C:\Users\User\source\repos\game01\game01\obj\Debug\net8.0\refint\game01.dll
 C:\Users\User\source\repos\game01\game01\obj\Debug\net8.0\game01.pdb
 C:\Users\User\source\repos\game01\game01\obj\Debug\net8.0\game01.genruntimeconfig.cache
 C:\Users\User\source\repos\game01\game01\obj\Debug\net8.0\ref\game01.dll
+C:\Users\User\source\repos\game01\game01\obj\Debug\net8.0\game01.sourcelink.json
